@@ -1,2 +1,1 @@
-# To-do-App
-Lista de tareas
+Aqui va la descripcion para correr el proyecto
